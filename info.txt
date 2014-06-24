@@ -1,6 +1,9 @@
 Importer la base depuis "lafleur.sql"
 
-Pour ajouter un produit, sélectionner la catégorie dans laquelle vous voulez ajouter un produit. Saisir description prix.
-L'id produit est généré automatiquement.
-Pour supprimer allez dans la catégorie de votre choix, cliquez sur "supprimez ce produit" , puis validez.
-Pour modifier cliquez sur "modifier ce produit", choisissez une description, un prix, et selectionnez la catégorie.
+Pour ajouter un produit, sï¿½lectionner la catï¿½gorie dans laquelle vous voulez ajouter un produit. Saisir description prix.
+L'id produit est gï¿½nï¿½rï¿½ automatiquement.
+Pour supprimer allez dans la catï¿½gorie de votre choix, cliquez sur "supprimez ce produit" , puis validez.
+Pour modifier cliquez sur "modifier ce produit", choisissez une description, un prix, et selectionnez la catï¿½gorie.
+
+
+AJOUT d'UNE PETITE ZONE
